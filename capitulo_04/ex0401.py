@@ -1,0 +1,1 @@
+# Não acontece nada se os dois valores forem iguais. Os dois blocos de código são False, então eles são ignorados.
