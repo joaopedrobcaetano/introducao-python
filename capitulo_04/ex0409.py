@@ -1,0 +1,1 @@
+# O exercício consiste em rastrear o programa da listagem 4.8. O resultado deve ser o mesmo do apresentado na tabela 4.2.
