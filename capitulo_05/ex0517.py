@@ -1,0 +1,1 @@
+# Aparece "0 cédulas de R$ 50" quando o valor é 0
